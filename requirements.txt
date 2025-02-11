@@ -1,0 +1,9 @@
+pyttsx3
+speechrecognition
+wikipedia
+pywhatkit
+python-dotenv
+groq
+win10toast
+pyaudio
+mtranslate
